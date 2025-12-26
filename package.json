@@ -1,0 +1,12 @@
+{
+  "name": "env-confessional",
+  "version": "1.0.0",
+  "description": "Catches environment variable sins before production",
+  "main": "env-confessional.js",
+  "scripts": {
+    "test": "node env-confessional.js"
+  },
+  "keywords": ["env", "variables", "validation", "debugging"],
+  "author": "Your Name",
+  "license": "MIT"
+}
